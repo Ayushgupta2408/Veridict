@@ -8,7 +8,14 @@ load_dotenv()
 
 st.set_page_config(page_title="AI Legal Assistant", page_icon="🧠", layout="wide")
 
-st.title("⚖️ Personal AI Legal Assistant")
+st.markdown("""
+<h1 style="margin-bottom:0;">
+    ⚖️ Veridict
+</h1>
+<h5 style="margin-top:0; color:#808080; font-weight:400;">
+    Personal AI Legal Assistant
+</h5>
+""", unsafe_allow_html=True)
 st.markdown(
     "Enter a legal problem in plain English. This assistant will help you:\n"
     "- Understand the legal issue\n"
