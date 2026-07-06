@@ -1,5 +1,5 @@
 # Veridict (Ai-legal-assistant)
-Demo-https://youtu.be/slSgxj0Z3Cs
+Demo- https://youtu.be/slSgxj0Z3Cs
 ## Project Structure
 ```
 AI-LEGAL-ASSISTANT-CREWAI
