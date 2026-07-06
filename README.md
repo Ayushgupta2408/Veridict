@@ -77,5 +77,5 @@ python ipc_vectordb_builder.py
 
 python query_vectordb.py
 
-python main.py
+streamlit run app.py
 ```
